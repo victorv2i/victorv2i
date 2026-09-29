@@ -1,21 +1,11 @@
-## Victor Iglesias
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp"><img src="assets/header-light.webp" width="100%" alt="Victor Iglesias. I build real software with AI agents."></picture>
 
-**I build real software with AI agents.**
+<p><a href="https://v2.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.png"><img src="assets/link-site-light.png" height="36" alt="v2.studio"></picture></a> <a href="https://v2.studio/victor-iglesias-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.png"><img src="assets/link-resume-light.png" height="36" alt="Résumé (PDF)"></picture></a> <a href="https://www.linkedin.com/in/victoriglesiascs/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.png"><img src="assets/link-linkedin-light.png" height="36" alt="LinkedIn"></picture></a> <a href="https://x.com/victorv2i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.png"><img src="assets/link-x-light.png" height="36" alt="X"></picture></a></p>
 
-Open-source tools for agents, two live apps, and a public benchmark of AI models. Portfolio: [v2.studio](https://v2.studio)
+<p><a href="https://gamedeck.gg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-gamedeck-dark.webp"><img src="assets/card-gamedeck-light.webp" width="50%" align="top" alt="GameDeck. Live. Your game library, organized and shareable."></picture></a><a href="https://coursekit.tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-coursekit-dark.webp"><img src="assets/card-coursekit-light.webp" width="50%" align="top" alt="CourseKit. Live. Course reviews in your browser. Nothing uploaded."></picture></a><a href="https://v2.studio/vbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vbench-dark.webp"><img src="assets/card-vbench-light.webp" width="50%" align="top" alt="vbench. Live. One brief, one try each, scored by hand."></picture></a><a href="https://github.com/victorv2i/enfold"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-enfold-dark.webp"><img src="assets/card-enfold-light.webp" width="50%" align="top" alt="Enfold. Open source. Shared memory for AI agents, on your machine."></picture></a></p>
 
-### Building
+### More
 
-- **[enfold](https://github.com/victorv2i/enfold)** · local, private long-term memory for AI agents. One SQLite brain shared by Claude Code, Codex and Hermes Agent. MIT.
-- **[enkeep](https://github.com/victorv2i/enkeep)** · your Markdown notes, in your browser. Git-backed, with MCP access. MIT.
-- **[CourseKit](https://coursekit.tools)** · four free Canvas course-review tools. Course files never leave your browser.
-- **[GameDeck](https://gamedeck.gg)** · your game library, organized and shareable.
-- **[vbench](https://v2.studio/vbench)** · one brief, six AI models, one try each, scored by hand.
-
-### Upstream
-
-Small, tested fixes in software I run: 2 merged in [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Avictorv2i), 4 open in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Avictorv2i). [The full record](https://v2.studio/upstream).
-
-### Elsewhere
-
-[v2.studio](https://v2.studio) · [LinkedIn](https://www.linkedin.com/in/victoriglesiascs/) · [X](https://x.com/victorv2i)
+- **[Enkeep](https://github.com/victorv2i/enkeep)** · A Markdown editor in your browser.
+- **[civil3d-ai-starter](https://github.com/victorv2i/civil3d-ai-starter)** · Describe a Civil 3D command in plain English. Claude writes, builds and loads it.
+- **[Upstream fixes](https://v2.studio/upstream)** · 2 merged in [odysseus](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Avictorv2i) (87k stars), 4 open in [hermes-agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Avictorv2i) (249k stars).
