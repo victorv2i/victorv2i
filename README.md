@@ -1,11 +1,21 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp"><img src="assets/header-light.webp" width="100%" alt="Victor Iglesias. I build real software with AI agents."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png"><img src="assets/header-light.png" width="100%" alt="Victor Iglesias. I build real software with AI agents."></picture>
 
-<p><a href="https://v2.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.png"><img src="assets/link-site-light.png" height="36" alt="v2.studio"></picture></a> <a href="https://v2.studio/victor-iglesias-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.png"><img src="assets/link-resume-light.png" height="36" alt="Résumé (PDF)"></picture></a> <a href="https://www.linkedin.com/in/victoriglesiascs/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.png"><img src="assets/link-linkedin-light.png" height="36" alt="LinkedIn"></picture></a> <a href="https://x.com/victorv2i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.png"><img src="assets/link-x-light.png" height="36" alt="X"></picture></a></p>
+<pre>
+<b>live</b>
+  <a href="https://gamedeck.gg">GameDeck</a>            your game library, organized and shareable
+  <a href="https://coursekit.tools">CourseKit</a>           course reviews in your browser, nothing uploaded
+  <a href="https://v2.studio/vbench">vbench</a>              one brief, one try each, scored by hand
 
-<p><a href="https://gamedeck.gg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-gamedeck-dark.webp"><img src="assets/card-gamedeck-light.webp" width="50%" align="top" alt="GameDeck. Live. Your game library, organized and shareable."></picture></a><a href="https://coursekit.tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-coursekit-dark.webp"><img src="assets/card-coursekit-light.webp" width="50%" align="top" alt="CourseKit. Live. Course reviews in your browser. Nothing uploaded."></picture></a><a href="https://v2.studio/vbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vbench-dark.webp"><img src="assets/card-vbench-light.webp" width="50%" align="top" alt="vbench. Live. One brief, one try each, scored by hand."></picture></a><a href="https://github.com/victorv2i/enfold"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-enfold-dark.webp"><img src="assets/card-enfold-light.webp" width="50%" align="top" alt="Enfold. Open source. Shared memory for AI agents, on your machine."></picture></a></p>
+<b>open source</b>
+  <a href="https://github.com/victorv2i/civil3d-ai-starter">civil3d-ai-starter</a>  describe a Civil 3D command, an agent builds it
+  <a href="https://github.com/victorv2i/enkeep">enkeep</a>              a markdown editor in your browser
+  <a href="https://github.com/victorv2i/enfold">enfold</a>              shared memory for AI agents, on your machine
+  <a href="https://v2.studio/upstream">upstream fixes</a>      2 merged in odysseus, 4 open in hermes-agent
 
-### More
+<b>building</b>
+  Liquid              a home for your AI agents
+  Tutor scorecard     tests AI tutors for answer leaks and privacy slips
 
-- **[Enkeep](https://github.com/victorv2i/enkeep)** · A Markdown editor in your browser.
-- **[civil3d-ai-starter](https://github.com/victorv2i/civil3d-ai-starter)** · Describe a Civil 3D command in plain English. Claude writes, builds and loads it.
-- **[Upstream fixes](https://v2.studio/upstream)** · 2 merged in [odysseus](https://github.com/odysseus-dev/odysseus/pulls?q=is%3Apr+author%3Avictorv2i) (87k stars), 4 open in [hermes-agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Avictorv2i) (249k stars).
+<b>elsewhere</b>
+  <a href="https://v2.studio">v2.studio</a>  ·  <a href="https://v2.studio/victor-iglesias-resume.pdf">résumé</a>  ·  <a href="https://www.linkedin.com/in/victoriglesiascs/">linkedin</a>  ·  <a href="https://x.com/victorv2i">x</a>
+</pre>
