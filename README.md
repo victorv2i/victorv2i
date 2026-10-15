@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" width="100%" alt="Victor. I build real software with AI agents."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-orbit-dark.png"><img src="assets/header-orbit-light.png" width="100%" alt="Victor. I make friendly tools for learning, play and work."></picture>
 
 <pre>
 <b>live</b>
